@@ -22,6 +22,7 @@ This organization is a place for me to build products and projects related to au
 - Zettelkasten supporting tools (input importer)
 - PyRM and SQL DB based CRM/PRM
 - fitbit API tools to ETL data to database
+- Garmin fitness data
 - US Bank API tools to automate and handle financial transactions
 - [todoist task management CLI](https://github.com/doist/todoist-python)
 
