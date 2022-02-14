@@ -25,6 +25,7 @@ This organization is a place for me to build products and projects related to au
 - Garmin fitness data
 - US Bank API tools to automate and handle financial transactions
 - [todoist task management CLI](https://github.com/doist/todoist-python)
+- daily digest email service along with automated CRM reminders
 
 ---
 
