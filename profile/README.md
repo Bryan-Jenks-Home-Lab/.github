@@ -14,6 +14,8 @@ This organization is a place for me to build products and projects related to au
 
 ---
 
+- Use github actions from PyRM Repo
+  - also [this one][1]
 - Docker based FastAPI microservice architectue
   - service aggregator
   - Database transactions
@@ -24,8 +26,11 @@ This organization is a place for me to build products and projects related to au
 - fitbit API tools to ETL data to database
 - Garmin fitness data
 - US Bank API tools to automate and handle financial transactions
-- [todoist task management CLI](https://github.com/doist/todoist-python)
+- [todoist task management CLI][2]
 - daily digest email service along with automated CRM reminders
+
+[1]: https://github.com/gaurav-nelson/github-action-markdown-link-check
+[2]: https://github.com/doist/todoist-python
 
 ---
 
