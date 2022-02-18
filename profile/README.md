@@ -1,16 +1,16 @@
-# Hi there 👋
+# 0. Hi there 👋
 
 > Welcome to Neurodivergent OS, an "Operating System" for Neurodivergent Tech Enthusiests
 
-## What This Github Organization Is all about
+## 1. What This Github Organization Is all about
 
 This organization is a place for me to build products and projects related to automation and technological support for my life as a Neurodivergent person.
 
 ---
 
-## Roadmap
+## 2. Roadmap
 
-### Ideas
+### 2.1. Ideas
 
 ---
 
@@ -34,7 +34,7 @@ This organization is a place for me to build products and projects related to au
 
 ---
 
-### Queue
+### 2.2. Queue
 
 ---
 
@@ -45,7 +45,7 @@ This organization is a place for me to build products and projects related to au
 
 ---
 
-## Interested in supporting my work?
+## 3. Interested in supporting my work?
 
 - :star: [GitHub Sponsor][6] :star:
 - [Patreon][7]
