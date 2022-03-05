@@ -1,6 +1,6 @@
 # 0. Hi there 👋
 
-> Welcome to Neurodivergent OS, an "Operating System" for Neurodivergent Tech Enthusiests
+> Welcome to my Home Lab! The place where i plan to automate my life and externalize my Neurodivergent brain! Tech enthusiests VERY welcome!
 
 ## 1. What This Github Organization Is all about
 
