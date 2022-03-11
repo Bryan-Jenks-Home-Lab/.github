@@ -10,6 +10,12 @@ This organization is a place for me to build products and projects related to au
 
 ## 2. Roadmap
 
+---
+
+[Organizational Roadmap][3]
+
+---
+
 ### 2.1. Ideas
 
 ---
@@ -29,20 +35,6 @@ This organization is a place for me to build products and projects related to au
 - [todoist task management CLI][2]
 - daily digest email service along with automated CRM reminders
 
-[1]: https://github.com/gaurav-nelson/github-action-markdown-link-check
-[2]: https://github.com/doist/todoist-python
-
----
-
-### 2.2. Queue
-
----
-
-- Proxmox on server 1
-- Truenas on server 2
-- VM for MS SQL Server and SSMS
-  - Redgate?
-
 ---
 
 ## 3. Interested in supporting my work?
@@ -54,6 +46,9 @@ This organization is a place for me to build products and projects related to au
 - [Amazon Affiliate Link][10]
 - [My Kits][11]
 
+[1]: https://github.com/gaurav-nelson/github-action-markdown-link-check
+[2]: https://github.com/doist/todoist-python
+[3]: https://github.com/orgs/Bryan-Jenks-Home-Lab/projects/1/views/1
 [6]: https://github.com/sponsors/tallguyjenks
 [7]: https://www.patreon.com/bryanjenks?fan_landing=true
 [8]: https://www.buymeacoffee.com/tallguyjenks
