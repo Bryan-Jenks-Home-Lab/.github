@@ -1,14 +1,14 @@
-# 0. Hi there 👋
+# Hi there 👋
 
 > Welcome to my Home Lab! The place where i plan to automate my life and externalize my Neurodivergent brain! Tech enthusiests VERY welcome!
 
-## 1. What This Github Organization Is all about
+## What This Github Organization Is all about
 
 This organization is a place for me to build products and projects related to automation and technological support for my life as a Neurodivergent person.
 
 ---
 
-## 2. Roadmap
+## Roadmap
 
 ---
 
