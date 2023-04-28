@@ -16,7 +16,7 @@ This organization is a place for me to build products and projects related to au
 
 ---
 
-## 3. Interested in supporting my work?
+## Interested in supporting my work?
 
 - :star: [GitHub Sponsor][6] :star:
 - [Patreon][7]
